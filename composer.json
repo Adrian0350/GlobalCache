@@ -1,0 +1,19 @@
+{
+    "name": "adrian0350/global-cache",
+    "description": "Directly control your Global Caché devices through TCP connection",
+    "type": "library",
+	"keywords": ["PHP", "Global Caché", "Global", "Caché", "iTach", "IP2CC"],
+	"homepage": "https://github.com/Adrian0350/global-cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrián Zúñiga",
+            "email": "jaime.ziga@gmail.com",
+			"role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+	"require": {
+		"php": ">=5.3"
+	}
+}
